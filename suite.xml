@@ -16,9 +16,9 @@
 <!--        </groups>-->
         <classes>
             <class name="com.api.test.LoginAPITestThrid"/>
-<!--            <class name="com.api.test.AccountCreationTest"/>-->
+            <class name="com.api.test.AccountCreationTest"/>
 <!--            <class name="com.api.test.UpdateUserDataTest"/>-->
-<!--            <class name="com.api.test.GetProfileRequestTest"/>-->
+            <class name="com.api.test.GetProfileRequestTest"/>
         </classes>
     </test>
 </suite>
